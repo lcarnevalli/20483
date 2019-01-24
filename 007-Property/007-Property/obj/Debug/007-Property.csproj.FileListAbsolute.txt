@@ -1,0 +1,7 @@
+C:\Users\Loc\Desktop\20483\007-Property\007-Property\bin\Debug\007-Property.exe.config
+C:\Users\Loc\Desktop\20483\007-Property\007-Property\bin\Debug\007-Property.exe
+C:\Users\Loc\Desktop\20483\007-Property\007-Property\bin\Debug\007-Property.pdb
+C:\Users\Loc\Desktop\20483\007-Property\007-Property\obj\Debug\007-Property.csprojAssemblyReference.cache
+C:\Users\Loc\Desktop\20483\007-Property\007-Property\obj\Debug\007-Property.csproj.CoreCompileInputs.cache
+C:\Users\Loc\Desktop\20483\007-Property\007-Property\obj\Debug\007-Property.exe
+C:\Users\Loc\Desktop\20483\007-Property\007-Property\obj\Debug\007-Property.pdb

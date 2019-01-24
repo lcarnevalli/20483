@@ -1,0 +1,7 @@
+C:\Users\Loc\Desktop\20483\011-Output_Reference\011-Output_Reference\bin\Debug\011-Output_Reference.exe.config
+C:\Users\Loc\Desktop\20483\011-Output_Reference\011-Output_Reference\bin\Debug\011-Output_Reference.exe
+C:\Users\Loc\Desktop\20483\011-Output_Reference\011-Output_Reference\bin\Debug\011-Output_Reference.pdb
+C:\Users\Loc\Desktop\20483\011-Output_Reference\011-Output_Reference\obj\Debug\011-Output_Reference.csprojAssemblyReference.cache
+C:\Users\Loc\Desktop\20483\011-Output_Reference\011-Output_Reference\obj\Debug\011-Output_Reference.csproj.CoreCompileInputs.cache
+C:\Users\Loc\Desktop\20483\011-Output_Reference\011-Output_Reference\obj\Debug\011-Output_Reference.exe
+C:\Users\Loc\Desktop\20483\011-Output_Reference\011-Output_Reference\obj\Debug\011-Output_Reference.pdb

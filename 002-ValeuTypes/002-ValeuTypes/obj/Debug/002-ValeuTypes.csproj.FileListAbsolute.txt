@@ -1,0 +1,7 @@
+C:\Users\Loc\Desktop\20483\002-ValeuTypes\002-ValeuTypes\bin\Debug\002-ValeuTypes.exe.config
+C:\Users\Loc\Desktop\20483\002-ValeuTypes\002-ValeuTypes\bin\Debug\002-ValeuTypes.exe
+C:\Users\Loc\Desktop\20483\002-ValeuTypes\002-ValeuTypes\bin\Debug\002-ValeuTypes.pdb
+C:\Users\Loc\Desktop\20483\002-ValeuTypes\002-ValeuTypes\obj\Debug\002-ValeuTypes.csprojAssemblyReference.cache
+C:\Users\Loc\Desktop\20483\002-ValeuTypes\002-ValeuTypes\obj\Debug\002-ValeuTypes.csproj.CoreCompileInputs.cache
+C:\Users\Loc\Desktop\20483\002-ValeuTypes\002-ValeuTypes\obj\Debug\002-ValeuTypes.exe
+C:\Users\Loc\Desktop\20483\002-ValeuTypes\002-ValeuTypes\obj\Debug\002-ValeuTypes.pdb

@@ -1,0 +1,7 @@
+C:\Users\Loc\Desktop\20483\019-List\019-List\bin\Debug\019-List.exe.config
+C:\Users\Loc\Desktop\20483\019-List\019-List\bin\Debug\019-List.exe
+C:\Users\Loc\Desktop\20483\019-List\019-List\bin\Debug\019-List.pdb
+C:\Users\Loc\Desktop\20483\019-List\019-List\obj\Debug\019-List.csproj.CoreCompileInputs.cache
+C:\Users\Loc\Desktop\20483\019-List\019-List\obj\Debug\019-List.exe
+C:\Users\Loc\Desktop\20483\019-List\019-List\obj\Debug\019-List.pdb
+C:\Users\Loc\Desktop\20483\019-List\019-List\obj\Debug\019-List.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Loc\Desktop\20483\015-JaggedArray\015-JaggedArray\bin\Debug\015-JaggedArray.exe.config
+C:\Users\Loc\Desktop\20483\015-JaggedArray\015-JaggedArray\bin\Debug\015-JaggedArray.exe
+C:\Users\Loc\Desktop\20483\015-JaggedArray\015-JaggedArray\bin\Debug\015-JaggedArray.pdb
+C:\Users\Loc\Desktop\20483\015-JaggedArray\015-JaggedArray\obj\Debug\015-JaggedArray.csprojAssemblyReference.cache
+C:\Users\Loc\Desktop\20483\015-JaggedArray\015-JaggedArray\obj\Debug\015-JaggedArray.csproj.CoreCompileInputs.cache
+C:\Users\Loc\Desktop\20483\015-JaggedArray\015-JaggedArray\obj\Debug\015-JaggedArray.exe
+C:\Users\Loc\Desktop\20483\015-JaggedArray\015-JaggedArray\obj\Debug\015-JaggedArray.pdb

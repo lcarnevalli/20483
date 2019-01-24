@@ -1,0 +1,7 @@
+C:\Users\Loc\Desktop\20483\014-MultidimensionalArray\014-MultidimensionalArray\bin\Debug\014-MultidimensionalArray.exe.config
+C:\Users\Loc\Desktop\20483\014-MultidimensionalArray\014-MultidimensionalArray\bin\Debug\014-MultidimensionalArray.exe
+C:\Users\Loc\Desktop\20483\014-MultidimensionalArray\014-MultidimensionalArray\bin\Debug\014-MultidimensionalArray.pdb
+C:\Users\Loc\Desktop\20483\014-MultidimensionalArray\014-MultidimensionalArray\obj\Debug\014-MultidimensionalArray.csprojAssemblyReference.cache
+C:\Users\Loc\Desktop\20483\014-MultidimensionalArray\014-MultidimensionalArray\obj\Debug\014-MultidimensionalArray.csproj.CoreCompileInputs.cache
+C:\Users\Loc\Desktop\20483\014-MultidimensionalArray\014-MultidimensionalArray\obj\Debug\014-MultidimensionalArray.exe
+C:\Users\Loc\Desktop\20483\014-MultidimensionalArray\014-MultidimensionalArray\obj\Debug\014-MultidimensionalArray.pdb

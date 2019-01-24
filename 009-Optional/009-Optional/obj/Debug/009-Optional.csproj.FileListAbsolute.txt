@@ -1,0 +1,7 @@
+C:\Users\Loc\Desktop\20483\009-Optional\009-Optional\bin\Debug\009-Optional.exe.config
+C:\Users\Loc\Desktop\20483\009-Optional\009-Optional\bin\Debug\009-Optional.exe
+C:\Users\Loc\Desktop\20483\009-Optional\009-Optional\bin\Debug\009-Optional.pdb
+C:\Users\Loc\Desktop\20483\009-Optional\009-Optional\obj\Debug\009-Optional.csprojAssemblyReference.cache
+C:\Users\Loc\Desktop\20483\009-Optional\009-Optional\obj\Debug\009-Optional.csproj.CoreCompileInputs.cache
+C:\Users\Loc\Desktop\20483\009-Optional\009-Optional\obj\Debug\009-Optional.exe
+C:\Users\Loc\Desktop\20483\009-Optional\009-Optional\obj\Debug\009-Optional.pdb

@@ -1,0 +1,7 @@
+C:\Users\Loc\Desktop\20483\003-LIteralVariavelConstante\003-LIteralVariavelConstante\bin\Debug\003-LIteralVariavelConstante.exe.config
+C:\Users\Loc\Desktop\20483\003-LIteralVariavelConstante\003-LIteralVariavelConstante\bin\Debug\003-LIteralVariavelConstante.exe
+C:\Users\Loc\Desktop\20483\003-LIteralVariavelConstante\003-LIteralVariavelConstante\bin\Debug\003-LIteralVariavelConstante.pdb
+C:\Users\Loc\Desktop\20483\003-LIteralVariavelConstante\003-LIteralVariavelConstante\obj\Debug\003-LIteralVariavelConstante.csprojAssemblyReference.cache
+C:\Users\Loc\Desktop\20483\003-LIteralVariavelConstante\003-LIteralVariavelConstante\obj\Debug\003-LIteralVariavelConstante.csproj.CoreCompileInputs.cache
+C:\Users\Loc\Desktop\20483\003-LIteralVariavelConstante\003-LIteralVariavelConstante\obj\Debug\003-LIteralVariavelConstante.exe
+C:\Users\Loc\Desktop\20483\003-LIteralVariavelConstante\003-LIteralVariavelConstante\obj\Debug\003-LIteralVariavelConstante.pdb

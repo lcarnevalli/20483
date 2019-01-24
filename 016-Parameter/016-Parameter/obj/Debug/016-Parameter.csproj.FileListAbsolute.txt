@@ -1,0 +1,7 @@
+C:\Users\Loc\Desktop\20483\016-Parameter\016-Parameter\bin\Debug\016-Parameter.exe.config
+C:\Users\Loc\Desktop\20483\016-Parameter\016-Parameter\bin\Debug\016-Parameter.exe
+C:\Users\Loc\Desktop\20483\016-Parameter\016-Parameter\bin\Debug\016-Parameter.pdb
+C:\Users\Loc\Desktop\20483\016-Parameter\016-Parameter\obj\Debug\016-Parameter.csprojAssemblyReference.cache
+C:\Users\Loc\Desktop\20483\016-Parameter\016-Parameter\obj\Debug\016-Parameter.csproj.CoreCompileInputs.cache
+C:\Users\Loc\Desktop\20483\016-Parameter\016-Parameter\obj\Debug\016-Parameter.exe
+C:\Users\Loc\Desktop\20483\016-Parameter\016-Parameter\obj\Debug\016-Parameter.pdb

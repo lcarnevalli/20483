@@ -1,0 +1,7 @@
+C:\Users\Loc\Desktop\20483\006-class\006-class\bin\Debug\006-class.exe.config
+C:\Users\Loc\Desktop\20483\006-class\006-class\bin\Debug\006-class.exe
+C:\Users\Loc\Desktop\20483\006-class\006-class\bin\Debug\006-class.pdb
+C:\Users\Loc\Desktop\20483\006-class\006-class\obj\Debug\006-class.csprojAssemblyReference.cache
+C:\Users\Loc\Desktop\20483\006-class\006-class\obj\Debug\006-class.csproj.CoreCompileInputs.cache
+C:\Users\Loc\Desktop\20483\006-class\006-class\obj\Debug\006-class.exe
+C:\Users\Loc\Desktop\20483\006-class\006-class\obj\Debug\006-class.pdb

@@ -1,0 +1,7 @@
+C:\Users\Loc\Desktop\20483\018-GenericStruct\018-GenericStruct\bin\Debug\018-GenericStruct.exe.config
+C:\Users\Loc\Desktop\20483\018-GenericStruct\018-GenericStruct\bin\Debug\018-GenericStruct.exe
+C:\Users\Loc\Desktop\20483\018-GenericStruct\018-GenericStruct\bin\Debug\018-GenericStruct.pdb
+C:\Users\Loc\Desktop\20483\018-GenericStruct\018-GenericStruct\obj\Debug\018-GenericStruct.csproj.CoreCompileInputs.cache
+C:\Users\Loc\Desktop\20483\018-GenericStruct\018-GenericStruct\obj\Debug\018-GenericStruct.exe
+C:\Users\Loc\Desktop\20483\018-GenericStruct\018-GenericStruct\obj\Debug\018-GenericStruct.pdb
+C:\Users\Loc\Desktop\20483\018-GenericStruct\018-GenericStruct\obj\Debug\018-GenericStruct.csprojAssemblyReference.cache
